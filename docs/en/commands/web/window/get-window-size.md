@@ -47,7 +47,7 @@ let handleTwoSize = await driver.getWindowSize("handleName");
 
 ```csharp
 // C#
-// TODO C# sample
+Size windowSize = driver.Manage().Window.Size;
 
 ```
 
